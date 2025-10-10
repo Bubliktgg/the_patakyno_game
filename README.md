@@ -6,7 +6,7 @@ A Python-based interactive "game" with a humorous twist. Choosing "YES" is an ir
 
 ## ⚠️ Disclaimer: this is NOT a real game!
 
-The app is intended solely for educational and entertainment purposes. Use at Your Own Risk.
+The app is intended solely for educational and entertainment purposes. Use at your own risk.
 
 [Download page](https://github.com/Bubliktgg/the_patakyno_game/releases/tag/v4.0)
 
@@ -31,7 +31,7 @@ Created in Python.
 
 ## ⚠️ Предупреждение: это НЕ настоящая игра!
 
-Приложение предназначено исключительно для образовательных и развлекательных целей. Вы запускаете его на свой страх и риск.
+Приложение предназначено исключительно для образовательных и развлекательных целей. Используйте на свой страх и риск.
 
 ## Функционал:
 
