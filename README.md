@@ -2,7 +2,7 @@
 
 ## The Patakyno Game — point of no return
 
-A Python-based interactive "game" with a humorous twist. Choosing "YES" is an irreversible decision that demonstrates your unwavering dedication to the cause of Patakism XD.
+A Python-based interactive "game" with a humorous twist. Choosing "YES" is an irreversible decision that demonstrates your unwavering dedication to the cause of Pataking XD.
 
 ## ⚠️ Disclaimer: this is NOT a real game!
 
@@ -25,7 +25,7 @@ Created in Python.
 
 ## The Patakyno Game — точка невозврата
 
-Интерактивное приложение-"игра" с юмористическим подтекстом. Нажимая "ДА", вы принимаете необратимое решение, которое демонстрирует вашу непоколебимую преданность делу Патакизма XD.
+Интерактивное приложение-"игра" с юмористическим подтекстом. Нажимая "ДА", вы принимаете необратимое решение, которое демонстрирует вашу непоколебимую преданность делу Патакинга XD.
 
 [Скачать](https://github.com/Bubliktgg/the_patakyno_game/releases/tag/v4.0)
 
