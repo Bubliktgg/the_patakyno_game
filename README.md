@@ -1,6 +1,6 @@
 # English:
 
-## The Patakyno Game — point of no return
+### The Patakyno Game — point of no return
 
 A Python-based interactive "game" with a humorous twist. Choosing "YES" is an irreversible decision that demonstrates your unwavering dedication to the cause of Pataking XD.
 
@@ -21,9 +21,11 @@ Clicking "Yes" in the pop-up window with the question "Become a Pataka?" the fol
 
 Created in Python.
 
+---
+
 # Русский:
 
-## The Patakyno Game — точка невозврата
+### The Patakyno Game — точка невозврата
 
 Интерактивное приложение-"игра" с юмористическим подтекстом. Нажимая "ДА", вы принимаете необратимое решение, которое демонстрирует вашу непоколебимую преданность делу Патакинга XD.
 
